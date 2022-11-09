@@ -1,8 +1,7 @@
 theme: jekyll-theme-slate
 title: Welcome to my Portfolio Page
-description: My name is Andrew Semenov, and I am the Quality Assurance Engineer (Manual / Automation). 
+description: My name is Andrew Semenov, and I am the Quality Assurance Engineer (Manual / Automation)
 show_downloads: true
 github:
   zip_url: https://drive.google.com/file/d/1BhJBZ-v-Tjv9S-40om8J6nKrKTNmLqD1/view?usp=share_link
   tar_url: https://drive.google.com/file/d/1BhJBZ-v-Tjv9S-40om8J6nKrKTNmLqD1/view?usp=share_link
-  another_url: https://drive.google.com/file/d/1BhJBZ-v-Tjv9S-40om8J6nKrKTNmLqD1/view?usp=share_link
