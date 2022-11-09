@@ -1,4 +1,3 @@
-# Welcome to my Portfolio Page
 ### Projects list with examples of automated tests
 * [Selenium with Javascript](https://github.com/andrew-semenov/andrew-semenov.github.io)
 * [Selenium with Python](https://github.com/andrew-semenov/andrew-semenov.github.io)
