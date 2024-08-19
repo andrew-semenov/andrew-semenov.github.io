@@ -1,5 +1,5 @@
 * [CodeceptJS demo project](https://github.com/andrew-semenov/CodeceptJS)
-* [Playwright demo project](https://github.com/andrew-semenov/angular-demo)
+* [Playwright demo project](https://github.com/andrew-semenov/Playwright)
 * [Postman](https://github.com/andrew-semenov/Postman)
 <!-- 
 [WebdriverIO](https://github.com/andrew-semenov/wdio-demo)
